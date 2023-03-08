@@ -1,3 +1,3 @@
-public class BirdFly {
-    
+public interface BirdFly {
+    public void toFly();
 }

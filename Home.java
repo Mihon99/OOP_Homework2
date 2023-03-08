@@ -1,3 +1,3 @@
-public class Home {
-    
+public interface Home {
+    public void caressing();
 }
